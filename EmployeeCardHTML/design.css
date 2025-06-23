@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+form .form-control {
+  border-radius: 0.5rem;
+}
+
+button {
+  border-radius: 0.5rem;
+}
